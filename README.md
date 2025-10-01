@@ -8,13 +8,14 @@ Acesse a versão publicada do projeto aqui:
 https://movie-flix-iota-swart.vercel.app/
 
 👨‍💻 Integrantes da Equipe
-Matheus Vieira
 
-Leonardo Alvarenga
+-Matheus Vieira
 
-Eduarda Andrade
+-Leonardo Alvarenga
 
-Amanda Pereira
+-Eduarda Andrade
+
+-Amanda Pereira
 
 🚀 Como Executar o Projeto Localmente
 Siga as instruções abaixo para configurar e rodar o projeto em sua máquina.
